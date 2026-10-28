@@ -6,7 +6,7 @@ This is an independent student starter. The lecturer's larger reference also dem
 
 ## 1. Run your own copy
 
-Repository: [Employee-Absence-API-Basic](https://github.com/DevidMontecchiari/Employee-Absence-API-Basic).
+Repository: [Absence Systems 2.0](https://github.com/IselaVillanueva/Absence-Systems-2.0)
 
 **In the browser:** on GitHub select **Code > Codespaces > Create codespace**. This creates your own environment, not access to the lecturer's running application. To keep and push changes to your own repository, fork the starter first and open your Codespace on that fork.
 
