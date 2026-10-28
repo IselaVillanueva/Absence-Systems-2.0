@@ -1,0 +1,20 @@
+[
+  {
+    "Employee_ID": 1,
+    "Name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "Default_Approver_ID": 2
+  },
+  {
+    "Employee_ID": 2,
+    "Name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "Default_Approver_ID": null
+  },
+  {
+    "Employee_ID": 3,
+    "Name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "Default_Approver_ID": 2
+  }
+]

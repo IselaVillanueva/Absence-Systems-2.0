@@ -1,0 +1,22 @@
+[
+  {
+    "Request_ID": 101,
+    "Requester_ID": 1,
+    "Approver_ID": 2,
+    "Start_date": "2026-06-01",
+    "End_date": "2026-06-05",
+    "Absence_type": "Vacation",
+    "Status": "Approved",
+    "Submitted_date": "2026-05-20"
+  },
+  {
+    "Request_ID": 102,
+    "Requester_ID": 3,
+    "Approver_ID": 2,
+    "Start_date": "2026-07-10",
+    "End_date": "2026-07-12",
+    "Absence_type": "Sick Leave",
+    "Status": "Pending",
+    "Submitted_date": "2026-06-01"
+  }
+]
